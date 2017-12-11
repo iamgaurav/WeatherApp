@@ -45,5 +45,8 @@ public class Weather {
 		return result;
 	}
 	
+	public double kevToCel(double value) {
+		return value - 273.15f;
+	}
 	
 }
