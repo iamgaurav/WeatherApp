@@ -1,6 +1,6 @@
 VirtualAssistant
 
-#Dependencies
+# Dependencies
 OpenNLP
 simple-json
 OpenWeatherMAP API
